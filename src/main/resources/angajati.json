@@ -1,0 +1,38 @@
+[
+  {
+    "nume": "Ilie",
+    "post": "sef",
+    "data_angajarii": "2023-04-14",
+    "salariu": 7000
+  },
+  {
+    "nume": "Pistol",
+    "post": "inginer",
+    "data_angajarii": "2023-06-21",
+    "salariu": 3000
+  },
+  {
+    "nume": "Popescu",
+    "post": "director",
+    "data_angajarii": "2019-10-06",
+    "salariu": 5500
+  },
+  {
+    "nume": "Bachichie",
+    "post": "contabil",
+    "data_angajarii": "2024-04-03",
+    "salariu": 2000
+  },
+  {
+    "nume": "Valceanu",
+    "post": "electrician",
+    "data_angajarii": "2015-12-02",
+    "salariu": 800
+  },
+  {
+    "nume": "Ion",
+    "post": "informatician",
+    "data_angajarii": "2023-08-28",
+    "salariu": 2300
+  }
+]
